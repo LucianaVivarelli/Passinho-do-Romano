@@ -1,4 +1,5 @@
-<h1 align="center"> Passinho do Romano feito em fevereiro de 2022 </h1>
+<h1 align="center"> Passinho do Romano </h1>
+<h5>Projeto feito em fevereiro de 2021</h5>
 <br>
 <br>
 <ul align="center" list-style="none">
