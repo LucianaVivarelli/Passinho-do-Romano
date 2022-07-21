@@ -1,9 +1,15 @@
-# Passinho do Romano feito em fevereiro de 2022
-
-- Projeto para treinar o conhecimento em jacaScript usando api;
-- Cifra de Cesar e B64;
-
-Tecnoogias usadas:
+<h1 align="center"> Passinho do Romano feito em fevereiro de 2022 </h1>
+<br>
+<br>
+<ul align="center" list-style="none">
+<li>- Projeto para treinar o conhecimento em javaScript consumindo a  api  de Cifras de Cesar e b64;</li>
+<li>- aprimorando alinhamento de códigos;</li>
+<li>- Estrutura Mvc;</li>
+<li>- Feito no segundo modulo do curso de desenvolvimento Web Ful Stack na Resilia Educação;</li></li>
+<li>- Projeto recente por aqui, porém o mesmo foi desenvolvimento em fevereiro desse ano;</li>
+</ul>
+<br>
+<h3 align="center">Tecnologias usadas:</h3>
 HTML| CSS | javaScript
 
 Print da pagina:
